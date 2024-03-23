@@ -1,0 +1,235 @@
+
+/**************************************************************************/
+
+
+
+
+/**************************************************************************/
+
+body {
+    background-color: black;
+    background-image: url(green.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+#me {
+    width: 200px;
+    height: 190px;
+    border-style: outset;
+    border-color: black;
+    margin: auto;
+}
+
+/**************************************************************************/
+
+#animeL {
+    animation-name: slideLeft;
+    animation-duration: 1s;
+}   
+
+@keyframes slideLeft {
+    from{transform: translateX(2000px);}
+}
+
+/**************************************************************************/
+
+
+/***NAME***************/
+
+h1 {
+    color: wheat;
+    font-size: 43px;
+    text-align: center;
+    border-style: outset;
+    border-color: rgba(0, 57, 59, 0.822);
+}
+
+/***TITLES***************/
+
+h3 {
+    color: wheat;
+    background-color: rgba(22, 149, 153, 0.534);
+    font-size: 24px;
+    text-align: center;
+    width: auto;
+    height: auto;
+    border-style: outset;
+    border-color: rgba(0, 57, 59, 0.822);
+    margin: auto;
+}
+
+/***INFO***************/
+
+h4 {
+    color: white;
+    font-size: 17px;
+    text-align: center;  
+}
+
+#info {
+    background-color: rgba(37, 37, 37, 0.781);
+    width: auto;
+    height: auto;
+    border-style: outset;
+    border-color: black;
+    margin: auto;
+}
+
+/**************************************************************************/
+
+p {
+    font-size: 15px;
+    
+}
+
+/**************************************************************************/
+
+#name {
+    background-color: rgba(22, 149, 153, 0.534);
+}
+
+/**************************************************************************/
+
+#obj {
+    color: white;
+    background-color: rgba(37, 37, 37, 0.781);
+    margin: auto;
+    text-align: center;
+    width: auto;
+    height: auto;
+    border-style: outset;
+    border-color: black;
+    
+}
+
+/*****************************/
+
+#pi {
+    color: white;
+    background-color: rgba(37, 37, 37, 0.781);
+    margin: auto;
+    text-align: center;
+    width: auto;
+    height: auto;
+    border-style: outset;
+    border-color: black;
+}
+
+#eb1 {
+    color: white;
+    background-color: rgba(37, 37, 37, 0.781);
+    margin: auto;
+    text-align: center;
+    width: auto;
+    height: auto;
+    border-style: outset;
+    border-color: black;
+}
+
+#eb2 {
+    color: white;
+    background-color: rgba(37, 37, 37, 0.781);
+    margin: auto;
+    text-align: center;
+    width: auto;
+    height: auto;
+    border-style: outset;
+    border-color: black;
+}
+
+/*****************************/
+
+#tp {
+    color: white;
+    background-color: rgba(37, 37, 37, 0.781);
+    margin: auto;
+    text-align: center;
+    width: auto;
+    height: auto;
+    border-style: outset;
+    border-color: black;
+}
+
+/*****************************/
+
+#exp1 {
+    color: white;
+    background-color: rgba(37, 37, 37, 0.781);
+    margin: auto;
+    text-align: center;
+    width: auto;
+    height: auto;
+    border-style: outset;
+    border-color: black;
+}
+
+#exp2 {
+    color: white;
+    background-color: rgba(37, 37, 37, 0.781);
+    text-align: center;
+    width: auto;
+    height: auto;
+    border-style: outset;
+    border-color: black;
+    margin: auto;
+}
+
+#exp3 {
+    color: white;
+    background-color: rgba(37, 37, 37, 0.781);
+    text-align: center;
+    width: auto;
+    height: auto;
+    border-style: outset;
+    border-color: black;
+    margin: auto;
+}
+
+#cr {
+    color: white;
+    background-color: rgba(37, 37, 37, 0.781);
+    text-align: center;
+    width: auto;
+    height: auto;
+    border-style: outset;
+    border-color: black;
+    margin: auto;
+}
+
+#dcl {
+    color: white;
+    background-color: rgba(37, 37, 37, 0.781);
+    text-align: center;
+    width: auto;
+    height: auto;
+    border-style: outset;
+    border-color: black;
+    margin: auto;
+}
+
+/*****************************/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
